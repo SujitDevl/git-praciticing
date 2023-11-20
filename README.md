@@ -1,4 +1,4 @@
-## practicing git commands
+## Practicing git commands
 
 
-## revising all the git commands thorougly.
+## revising all the git commands thoroughly.
