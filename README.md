@@ -1,5 +1,1 @@
-## practicing git commands
-
-
-## revising all the git commands thorougly.
-## arranging doubts that I had.
+## checking and analyzing error that I got while pushing.
