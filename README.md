@@ -1,1 +1,1 @@
-## checking and analyzing error that I got while pushing.
+## Checking and analyzing errors that I got while pushing.
